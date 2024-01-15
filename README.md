@@ -7,7 +7,7 @@
 
 Weather in Delhi
 
-Currently, the weather is: 17°C, light snow
+Currently, the weather is: 17°C
 
 Today, the sun rises at 07:31 and sets at 17:22
 
