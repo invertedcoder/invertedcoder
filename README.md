@@ -1,19 +1,19 @@
 ![MasterHead](https://64.media.tumblr.com/3e570496c39c50fcac1184ca5fba6004/tumblr_piwmfy6Auo1rnbw6mo1_1280.gif)
 <h4 align="left">I am Debayan, a Student at AECS in Madhya Pradesh, India</h1>
-<h5 align="left">About Me</h3>
+
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif">
 
 
 
-<p align="left"> <a href="https://twitter.com/debayannanda" target="blank"><img src="https://img.shields.io/twitter/follow/debayannanda?logo=twitter&style=for-the-badge" alt="debayannanda" /></a> </p>
+Weather in Delhi
 
-- ✔ I’m currently learning **Java Script**
+Currently, the weather is: 17°C, light snow
 
-- ✔ Ask me about **HTML , CSS**
+Today, the sun rises at 07:31 and sets at 17:22
 
-- ✔  **I Love Playing Guitar And Games**
 
-<h3 align="left">Connect with me:</h3>
+
+<h3 align="left"> Where to find me:</h3>
 <p align="left">
 <a href="https://twitter.com/debayannanda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="debayannanda" height="30" width="40" /></a>
 </p>
