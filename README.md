@@ -1,4 +1,4 @@
-![MasterHead](https://64.media.tumblr.com/3e570496c39c50fcac1184ca5fba6004/tumblr_piwmfy6Auo1rnbw6mo1_1280.gif)
+![MasterHead](https://i.pinimg.com/originals/a5/eb/cb/a5ebcb9255cbc110090dba4f043a0624.gif)
 <h4 align="left">I am Debayan, a Student at AECS in Madhya Pradesh, India</h1>
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif">
