@@ -1,4 +1,4 @@
-![MasterHead](https://i.kym-cdn.com/photos/images/newsfeed/001/049/889/5e6.gif)
+![MasterHead](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/64631aa9-090d-4381-ae0d-478d2737d8b4/d6c7xbm-2a171048-5dcc-4dab-81ec-8db954977263.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzY0NjMxYWE5LTA5MGQtNDM4MS1hZTBkLTQ3OGQyNzM3ZDhiNFwvZDZjN3hibS0yYTE3MTA0OC01ZGNjLTRkYWItODFlYy04ZGI5NTQ5NzcyNjMuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.pIc1tQpbnum3b4DbvYuYRWwwh5oTx6Z5RRpQw-WzxnE)
 <h4 align="left">I am Debayan, a Student at AECS in Madhya Pradesh, India</h1>
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif">
