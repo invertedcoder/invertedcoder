@@ -1,5 +1,5 @@
 ![MasterHead](https://media.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif)
-<h4 align="left">I am Debayan, a Student at AECS in Madhya Pradesh, India</h1>
+<h4 align="left">I am Debayan, I love to Code .</h1>
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif">
 
